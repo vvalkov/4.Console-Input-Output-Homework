@@ -1,0 +1,6 @@
+C:\Users\UniUser\Documents\velizar\Console-Input-Output-Homework\4.Console-Input-Output-Homework\2.Print-Company-Information\bin\Debug\2.Print-Company-Information.exe.config
+C:\Users\UniUser\Documents\velizar\Console-Input-Output-Homework\4.Console-Input-Output-Homework\2.Print-Company-Information\bin\Debug\2.Print-Company-Information.exe
+C:\Users\UniUser\Documents\velizar\Console-Input-Output-Homework\4.Console-Input-Output-Homework\2.Print-Company-Information\bin\Debug\2.Print-Company-Information.pdb
+C:\Users\UniUser\Documents\velizar\Console-Input-Output-Homework\4.Console-Input-Output-Homework\2.Print-Company-Information\obj\Debug\2.Print-Company-Information.csprojResolveAssemblyReference.cache
+C:\Users\UniUser\Documents\velizar\Console-Input-Output-Homework\4.Console-Input-Output-Homework\2.Print-Company-Information\obj\Debug\2.Print-Company-Information.exe
+C:\Users\UniUser\Documents\velizar\Console-Input-Output-Homework\4.Console-Input-Output-Homework\2.Print-Company-Information\obj\Debug\2.Print-Company-Information.pdb

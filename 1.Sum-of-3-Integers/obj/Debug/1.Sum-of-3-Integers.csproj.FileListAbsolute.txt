@@ -1,0 +1,6 @@
+C:\Users\UniUser\Documents\velizar\Console-Input-Output-Homework\4.Console-Input-Output-Homework\1.Sum-of-3-Integers\bin\Debug\1.Sum-of-3-Integers.exe.config
+C:\Users\UniUser\Documents\velizar\Console-Input-Output-Homework\4.Console-Input-Output-Homework\1.Sum-of-3-Integers\bin\Debug\1.Sum-of-3-Integers.exe
+C:\Users\UniUser\Documents\velizar\Console-Input-Output-Homework\4.Console-Input-Output-Homework\1.Sum-of-3-Integers\bin\Debug\1.Sum-of-3-Integers.pdb
+C:\Users\UniUser\Documents\velizar\Console-Input-Output-Homework\4.Console-Input-Output-Homework\1.Sum-of-3-Integers\obj\Debug\1.Sum-of-3-Integers.csprojResolveAssemblyReference.cache
+C:\Users\UniUser\Documents\velizar\Console-Input-Output-Homework\4.Console-Input-Output-Homework\1.Sum-of-3-Integers\obj\Debug\1.Sum-of-3-Integers.exe
+C:\Users\UniUser\Documents\velizar\Console-Input-Output-Homework\4.Console-Input-Output-Homework\1.Sum-of-3-Integers\obj\Debug\1.Sum-of-3-Integers.pdb
