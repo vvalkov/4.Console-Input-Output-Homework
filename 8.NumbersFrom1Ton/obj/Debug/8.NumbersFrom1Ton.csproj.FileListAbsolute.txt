@@ -1,0 +1,5 @@
+C:\Users\UniUser\Documents\velizar\Console-Input-Output-Homework\4.Console-Input-Output-Homework\8.NumbersFrom1Ton\bin\Debug\8.NumbersFrom1Ton.exe
+C:\Users\UniUser\Documents\velizar\Console-Input-Output-Homework\4.Console-Input-Output-Homework\8.NumbersFrom1Ton\bin\Debug\8.NumbersFrom1Ton.pdb
+C:\Users\UniUser\Documents\velizar\Console-Input-Output-Homework\4.Console-Input-Output-Homework\8.NumbersFrom1Ton\obj\Debug\8.NumbersFrom1Ton.csprojResolveAssemblyReference.cache
+C:\Users\UniUser\Documents\velizar\Console-Input-Output-Homework\4.Console-Input-Output-Homework\8.NumbersFrom1Ton\obj\Debug\8.NumbersFrom1Ton.exe
+C:\Users\UniUser\Documents\velizar\Console-Input-Output-Homework\4.Console-Input-Output-Homework\8.NumbersFrom1Ton\obj\Debug\8.NumbersFrom1Ton.pdb

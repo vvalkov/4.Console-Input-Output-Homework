@@ -1,0 +1,4 @@
+C:\Users\UniUser\Documents\velizar\Console-Input-Output-Homework\4.Console-Input-Output-Homework\9.SumOfnNumbers\bin\Debug\9.SumOfnNumbers.exe
+C:\Users\UniUser\Documents\velizar\Console-Input-Output-Homework\4.Console-Input-Output-Homework\9.SumOfnNumbers\bin\Debug\9.SumOfnNumbers.pdb
+C:\Users\UniUser\Documents\velizar\Console-Input-Output-Homework\4.Console-Input-Output-Homework\9.SumOfnNumbers\obj\Debug\9.SumOfnNumbers.exe
+C:\Users\UniUser\Documents\velizar\Console-Input-Output-Homework\4.Console-Input-Output-Homework\9.SumOfnNumbers\obj\Debug\9.SumOfnNumbers.pdb

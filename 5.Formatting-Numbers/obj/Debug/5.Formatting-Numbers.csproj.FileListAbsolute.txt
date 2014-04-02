@@ -1,0 +1,5 @@
+C:\Users\UniUser\Documents\velizar\Console-Input-Output-Homework\4.Console-Input-Output-Homework\5.Formatting-Numbers\bin\Debug\5.Formatting-Numbers.exe
+C:\Users\UniUser\Documents\velizar\Console-Input-Output-Homework\4.Console-Input-Output-Homework\5.Formatting-Numbers\bin\Debug\5.Formatting-Numbers.pdb
+C:\Users\UniUser\Documents\velizar\Console-Input-Output-Homework\4.Console-Input-Output-Homework\5.Formatting-Numbers\obj\Debug\5.Formatting-Numbers.csprojResolveAssemblyReference.cache
+C:\Users\UniUser\Documents\velizar\Console-Input-Output-Homework\4.Console-Input-Output-Homework\5.Formatting-Numbers\obj\Debug\5.Formatting-Numbers.exe
+C:\Users\UniUser\Documents\velizar\Console-Input-Output-Homework\4.Console-Input-Output-Homework\5.Formatting-Numbers\obj\Debug\5.Formatting-Numbers.pdb

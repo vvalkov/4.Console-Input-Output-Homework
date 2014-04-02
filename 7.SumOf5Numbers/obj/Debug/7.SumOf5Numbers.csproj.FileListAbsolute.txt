@@ -1,0 +1,5 @@
+C:\Users\UniUser\Documents\velizar\Console-Input-Output-Homework\4.Console-Input-Output-Homework\7.SumOf5Numbers\bin\Debug\7.SumOf5Numbers.exe
+C:\Users\UniUser\Documents\velizar\Console-Input-Output-Homework\4.Console-Input-Output-Homework\7.SumOf5Numbers\bin\Debug\7.SumOf5Numbers.pdb
+C:\Users\UniUser\Documents\velizar\Console-Input-Output-Homework\4.Console-Input-Output-Homework\7.SumOf5Numbers\obj\Debug\7.SumOf5Numbers.exe
+C:\Users\UniUser\Documents\velizar\Console-Input-Output-Homework\4.Console-Input-Output-Homework\7.SumOf5Numbers\obj\Debug\7.SumOf5Numbers.pdb
+C:\Users\UniUser\Documents\velizar\Console-Input-Output-Homework\4.Console-Input-Output-Homework\7.SumOf5Numbers\obj\Debug\7.SumOf5Numbers.csprojResolveAssemblyReference.cache

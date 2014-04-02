@@ -1,0 +1,5 @@
+C:\Users\UniUser\Documents\velizar\Console-Input-Output-Homework\4.Console-Input-Output-Homework\4.Number-Comparer\bin\Debug\4.Number-Comparer.exe
+C:\Users\UniUser\Documents\velizar\Console-Input-Output-Homework\4.Console-Input-Output-Homework\4.Number-Comparer\bin\Debug\4.Number-Comparer.pdb
+C:\Users\UniUser\Documents\velizar\Console-Input-Output-Homework\4.Console-Input-Output-Homework\4.Number-Comparer\obj\Debug\4.Number-Comparer.csprojResolveAssemblyReference.cache
+C:\Users\UniUser\Documents\velizar\Console-Input-Output-Homework\4.Console-Input-Output-Homework\4.Number-Comparer\obj\Debug\4.Number-Comparer.exe
+C:\Users\UniUser\Documents\velizar\Console-Input-Output-Homework\4.Console-Input-Output-Homework\4.Number-Comparer\obj\Debug\4.Number-Comparer.pdb
